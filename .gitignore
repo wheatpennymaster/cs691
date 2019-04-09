@@ -1,3 +1,7 @@
 *.png
 *.jpg
 *.JPG
+*.DS_Store
+*.sav
+*.tif
+*.h5
